@@ -52,6 +52,10 @@ button{
     .container{
         width: 600px;
     }
+    h1{
+        font-size: 3em;
+        width: 340px;
+    }
 }
 @media screen and (max-width:600px){
     .container{
